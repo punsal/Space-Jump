@@ -4,6 +4,12 @@
 
 Space Jump is a hyper-casual game. Throw the ball in to hoops to score. Right now project is under development.
 
+## Google Play Release
+
+Space Jump's development release on Google Play :
+
+https://play.google.com/store/apps/details?id=com.happyGameCompany.h05
+
 ## Software Design
 
 ### States
